@@ -13,11 +13,11 @@ O sistema representa uma hierarquia de animais, onde cada espécie possui compor
 
 ### 📚 Tecnologias utilizadas:
 
-☕ Java
+ - Java
 
-🧱 Paradigma Orientado a Objetos
+ - Paradigma Orientado a Objetos
 
-💡 IDE: Eclipse 
+ - IDE: Eclipse 
 
 ---
 
